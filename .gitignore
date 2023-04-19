@@ -6,6 +6,9 @@
 *.dylib
 *.pdb
 
+go.sum
+go.mod
+
 .idea
 
 # Test binary, built with `go test -c`

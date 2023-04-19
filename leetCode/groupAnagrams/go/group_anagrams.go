@@ -4,9 +4,9 @@ import (
 	"sort"
 )
 
-func groupAnagrams(strs []string) [][]string {
+func groupAnagrams(strings []string) [][]string {
 	anagramMap := make(map[string][]string)
-	for _, v := range strs {
+	for _, v := range strings {
 		sortedString := sortString(v)
 		if _, ok := anagramMap[sortedString]; ok {
 			anagramMap[sortedString] = append(anagramMap[sortedString], v)

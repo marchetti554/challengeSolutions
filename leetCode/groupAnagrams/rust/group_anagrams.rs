@@ -1,6 +1,8 @@
-fn main() {
-    // Statements here are executed when the compiled binary is called.
+pub fn group_anagrams(strs: Vec<String>) -> Vec<Vec<String>> {
 
-    // Print text to the console.
-    println!("Hello World!");
+}
+
+fn test() {
+    let array: [String; 32] = Default:default();
+    group_anagrams(array)
 }

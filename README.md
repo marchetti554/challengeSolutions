@@ -23,14 +23,17 @@ If you have any suggestion feel free to contact me! Feedback will always be appr
 Here is my exercise table which consists of many exercises taken from different coding
 platforms ([LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), etc)
 
-| Challenge / Language            | Go  | Java | Rust | 
+| Challenge / Language            | Go  | Java | Rust |
 |---------------------------------|-----|------|------|
-| Group Anagrams                  | ✅   | ✅    | ✅    |    
-| Longest Substring               | ✅   | :o:  | :o:  |   
-| Coin Change                     | :o: | :o:  | :o:  |   
-| Unique Paths                    | :o: | :o:  | :o:  |   
-| Best Time to Buy and Sell Stock | ✅   | :o:  | :o:  |   
-| Ransom Note                     | ✅   | :o:  | :o:  |   
+| Group Anagrams                  | ✅   | ✅    | ✅    |
+| Longest Substring               | ✅   | :o:  | :o:  |
+| Coin Change                     | :o: | :o:  | :o:  |
+| Unique Paths                    | :o: | :o:  | :o:  |
+| Best Time to Buy and Sell Stock | ✅   | :o:  | :o:  |
+| Ransom Note                     | ✅   | :o:  | :o:  |
+| Find Largest Square in Matrix   | :o: | :o:  | :o:  |
+| Reward Top k Students           | :o: | :o:  | :o:  |
+| Rotate strings to Left or Right | :o: | :o:  | :o:  |
 
 References:
 

@@ -6,6 +6,8 @@ import (
 )
 
 func Test(t *testing.T) {
-	result := maxProfit([]int{7, 6, 4, 3, 1})
-	fmt.Println(result)
+	result := maxProfit([]int{7, 1, 5, 3, 6, 4})
+	fmt.Println("maxProfit() --> ", result)
+	result = maxProfitImproved([]int{7, 1, 5, 3, 6, 4})
+	fmt.Println("maxProfitImproved() --> ", result)
 }

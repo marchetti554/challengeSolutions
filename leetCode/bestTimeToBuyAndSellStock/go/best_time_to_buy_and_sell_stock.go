@@ -1,5 +1,7 @@
 package _go
 
+import "syscall"
+
 // Needs improvement, 202/211 test cases passed, "time limit exceeded"
 func maxProfit(prices []int) int {
 	var maxProfitBuy, maxProfitSell, maxProfit int
@@ -18,4 +20,19 @@ func maxProfit(prices []int) int {
 		}
 	}
 	return maxProfitSell - maxProfitBuy
+}
+
+// Improved solution, see "Kadane's Algorithm"
+func maxProfitImproved(prices []int) int {
+	minPrice := syscall.INFINITE
+	var maxProfit int
+	for i := 0; i < len(prices); i++ {
+		if prices[i] < minPrice {
+			minPrice = prices[i]
+		}
+		if prices[i]-minPrice > maxProfit {
+			maxProfit = prices[i] - minPrice
+		}
+	}
+	return maxProfit
 }

@@ -33,8 +33,8 @@ platforms ([LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerran
 | Ransom Note                     | ✅   | :o:  | :o:  |
 | Find Largest Square in Matrix   | :o: | :o:  | :o:  |
 | Reward Top k Students           | :o: | :o:  | :o:  |
-| Rotate strings to Left or Right | :o: | ✅    | :o:  |
-| Finonacci Number                | :o: | :o:  | :o:  |
+| Rotate strings to Left or Right | :o: | :o:  | :o:  |
+| Fibonacci Number                | :o: | ✅    | :o:  |
 
 References:
 

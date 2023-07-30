@@ -6,11 +6,7 @@
 
 ---
 
-I'm **currently looking for a new job**, and in order to practice for my several future interviews (:crossed_fingers:),
-I created
-this repository where I will be uploading my solutions to many programming exercises.
-
-If you have any suggestion feel free to contact me! Feedback will always be appreciated :wink:
+If you have any suggestions feel free to contact me! Feedback will always be appreciated :wink:
 
 **Contact:**
 
